@@ -1,0 +1,4 @@
+consumer\KafkaConsumerAssignApp.class
+consumer\KafkaConsumerUtils.class
+consumer\KafkaConsumerSubscribeApp.class
+producer\KafkaProducerApp.class

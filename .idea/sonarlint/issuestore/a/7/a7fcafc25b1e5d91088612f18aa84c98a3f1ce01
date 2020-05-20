@@ -1,0 +1,7 @@
+
+j
+java:S1128"MRemove this unused import 'org.apache.kafka.clients.producer.RecordMetadata'.(éìåê8åÖ³å.
+Z
+java:S1128	"8Remove this unused import 'java.util.concurrent.Future'.(á¬øíıÿÿÿÿ8åÖ³å.
+E
+java:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÒøÕØ.

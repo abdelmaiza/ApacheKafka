@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="wcc_releases_3" />
+      <option name="name" value="wcc_releases_3" />
+      <option name="url" value="http://nexus3.accor.net:9100/nexus/repository/wc-customer-release-repo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tars-snapshot-repo" />
+      <option name="name" value="tars repository" />
+      <option name="url" value="http://nexus.accor.net:9090/nexus/content/groups/public-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tars-repo" />
+      <option name="name" value="tars repository" />
+      <option name="url" value="http://nexus.accor.net:9090/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wcc_snapshots_3" />
+      <option name="name" value="wcc_snapshots_3" />
+      <option name="url" value="http://nexus3.accor.net:9100/nexus/repository/wc-customer-snapshot-repo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tars-all-repo" />
+      <option name="name" value="tars all repository" />
+      <option name="url" value="http://nexus.accor.net:9090/nexus/content/groups/all-repos/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>
